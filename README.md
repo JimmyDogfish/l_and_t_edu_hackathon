@@ -1,6 +1,6 @@
 # L&T Edu Hackathon
 ### Team Name - Gearheads
-### Team Members - Apoorva Jha, Athrava Tiwari
+### Team Members - Apoorva Jha, Atharv Tiwari
 ## 
 The following transfer learning model uses MobileNetv2 as the pretrained model to predict the images as either positive or negative
 
